@@ -1,5 +1,5 @@
 [![github.png](https://i.postimg.cc/d1J1gfjM/github.png)](https://postimg.cc/4KFs9B0w)
-<h1 align="center">Hi 👋, I'm Yahor</h1>
+<h1 align="center">Hi 👋, I'm Yagor</h1>
 <h3 align="center">A Python developer from Belarus/Lithuania</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/EmT1YxF8CDuzTu7ffQ/giphy.gif?cid=ecf05e47qc59mdr5olbwxvq94puv0r12jronire9jddj6abv&ep=v1_gifs_search&rid=giphy.gif&ct=g">
